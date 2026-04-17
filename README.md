@@ -1,5 +1,3 @@
-<h1 align="center">👋 Olá, eu me chamo Ismael</h1>
-
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=python,py,javascript,c,php,html,)](https://skillicons.dev)<br><br>
 
