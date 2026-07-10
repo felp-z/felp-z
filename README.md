@@ -1,26 +1,14 @@
-<h1 align="center">Ismael Felipe</h1>
+<h1 align="center">Ismael</h1>
 <p align="center">
   <strong>Desenvolvedor Full-Stack & Infraestrutura de TI</strong><br>
   Santa Catarina, Brasil
-</p>
-
-<p align="center">
-  <a href="https://github.com/felp-z">
-    <img src="https://img.shields.io/badge/GitHub-felp--z-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/ismaelfelipe">
-    <img src="https://img.shields.io/badge/LinkedIn-ismaelfelipe-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ismael.felipe@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-ismael.felipe%40protonmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
 
 ---
 
 ### Sobre Mim
 
-Profissional de TI com sólida experiência em suporte técnico, redes e infraestrutura (atualmente focado em operações de TI e integrações corporativas na Cicampo), com foco crescente no desenvolvimento de aplicações full-stack. Experiência prática no desenvolvimento de sistemas internos (como portais de RH e Logística), integrando o banco de dados ERP Firebird com stacks modernas de APIs e deploy automatizado de soluções.
+Profissional de TI com sólida experiência em suporte técnico, redes e infraestrutura (atualmente focado em operações de TI e integrações corporativas), com foco crescente no desenvolvimento de aplicações full-stack. Experiência prática no desenvolvimento de sistemas internos (como portais de RH e Logística), integrando o banco de dados legados com stacks modernas de APIs e deploy automatizado de soluções.
 
 ---
 
